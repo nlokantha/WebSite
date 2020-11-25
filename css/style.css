@@ -44,8 +44,8 @@ h2 {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #FF6F61;
-    color: #ffffff;
+    background: #7225d6;
+    color: #cf0202;
     width: 40px;
     height: 40px;
     text-align: center;
@@ -203,8 +203,8 @@ h2 {
 .top-bar {
     padding: 3px 0;
     font-size: 14px;
-    color: #FF6F61;
-    background: #000000;
+    color: #ff1500;
+    background: #0cda2e;
 }
 
 .top-bar i {
@@ -2393,4 +2393,13 @@ h2 {
     .footer-bottom .template-by {
         text-align: center; 
     } 
+}
+
+
+.q .col-sm-6:first-child{
+    text-align:left;
+
+}
+.q .col-sm-6:last-child{
+    text-align:right;
 }
